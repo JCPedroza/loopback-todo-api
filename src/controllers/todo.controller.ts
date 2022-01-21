@@ -14,7 +14,6 @@ import {
 import {Todo} from '../models';
 import {TodoRepository} from '../repositories';
 
-
 export class TodoController {
   constructor(
     @repository(TodoRepository)
