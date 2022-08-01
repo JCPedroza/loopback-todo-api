@@ -60,7 +60,7 @@
   "devDependencies": {
     "@loopback/build": "^8.0.1",
     "source-map-support": "^0.5.21",
-    "@loopback/testlab": "^4.0.1",
+    "@loopback/testlab": "^5.0.2",
     "@types/node": "^10.17.60",
     "@loopback/eslint-config": "^12.0.1",
     "eslint": "^8.6.0",
